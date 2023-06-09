@@ -2,10 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sdj799&fontSize=90)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript"/>
-<a href="https://github.com//sdj799/github-readme-stats%22%3E
+<a href="https://github.com//sdj799/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdj799&theme=dark&show_icons=true" width="54%" />
 </a>
-<a href="https://github.com//sdj799/convoychat%22%3E
+<a href="https://github.com//sdj799/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdj799&exclude_repo=sdj799.github.io&layout=compact&theme=dark" />
 </a>
 <!--
