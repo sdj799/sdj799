@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdj799&theme=dark&show_icons=true" width="54%" />
 </a>
 <a href="https://github.com//sdj799/convoychat%22%3E
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdj799&exclude_repo=1roo.github.io&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdj799&exclude_repo=sdj799.github.io&layout=compact&theme=dark" />
 </a>
 <!--
 **sdj799/sdj799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
